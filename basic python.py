@@ -13,3 +13,5 @@ print(name,age,message,phoneNumber);
 
 #single line comment
 '''multi line comments'''
+new_change="hello"
+print(new_change);
