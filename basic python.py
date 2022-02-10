@@ -15,3 +15,11 @@ print(name,age,message,phoneNumber);
 '''multi line comments'''
 new_change="hello"
 print(new_change);
+
+# string function
+
+believe="vinay";
+
+print(len(believe));
+print(believe!='Vinay');
+print('na' not in believe);
